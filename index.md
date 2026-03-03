@@ -15,3 +15,5 @@ One of these suggestions pertains directly to the topic. The second suggestion t
 # Links
 
 [Privacy Policy]({% link privacy-policy.md %})
+
+[Report an Issue](https://github.com/DeepDive-Team/DeepDive/issues)
