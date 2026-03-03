@@ -4,7 +4,7 @@ AI generated responses are prone to errors, but it is annoying and tedious to ch
 
 In order to solve this, DeepDive does the work for you, providing easy Google search suggestions which are a perfect starting point for you to do your own research. 
 
-Along with these suggestions, DeepDive will also analyze the results of those searches and help you understand which ones reliable.
+Along with these suggestions, DeepDive will also analyze the results of those searches and help you understand which ones are reliable.
 
 # How do I use it?
 
