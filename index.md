@@ -14,4 +14,4 @@ One of these suggestions pertains directly to the topic. The second suggestion t
 
 # Links
 
-[Privacy Policy]({% privacy-policy.md % })
+[Privacy Policy]({% privacy-policy.md %})
